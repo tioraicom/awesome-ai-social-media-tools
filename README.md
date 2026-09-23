@@ -55,6 +55,7 @@ The queue everything else eventually feeds into.
 - **[Publer](https://publer.com/)** — Handles many accounts at once, which is the agency shape of this problem. `Freemium` `Web`
 - **[Sendible](https://www.sendible.com/)** — Client dashboards and white labelling, aimed squarely at agencies. `Paid` `Web` `iOS` `Android`
 - **[SocialBee](https://socialbee.com/)** — Recycles evergreen posts on a category schedule instead of a fixed date. `Paid` `Web`
+- **[SocialRoster](https://socialroster.dev/)** — Calendar and bulk upload for TikTok, Instagram, YouTube, and Facebook in one queue. `Paid` `Web`
 - **[Sprout Social](https://sproutsocial.com/)** — The enterprise choice, where publishing, listening, and the inbox are one contract. `Paid` `Web` `iOS` `Android`
 
 ## Writing posts and hooks
