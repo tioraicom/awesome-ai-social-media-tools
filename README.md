@@ -5,7 +5,7 @@
 > A curated list of AI tools for running social accounts, grouped by the working week, with no growth or engagement claims in it.
 
 <!-- counts:start -->
-![Tools](https://img.shields.io/badge/tools-48-informational)
+![Tools](https://img.shields.io/badge/tools-49-informational)
 ![Categories](https://img.shields.io/badge/categories-8-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -87,6 +87,7 @@ Making the image without opening a design application.
 - **[Canva](https://www.canva.com/)** — Holds the brand kit, so a stand-in can post without breaking the look. `Freemium` `Web` `iOS` `Android`
 - **[Ocoya](https://www.ocoya.com/)** — Produces the caption and the image from one brief instead of two tools. `Paid` `Web`
 - **[Predis.ai](https://www.predis.ai/)** — Turns a product page into a carousel or a short video without a brief. `Freemium` `Web`
+- **[Ideoy](https://ideoy.ai/)** — Remakes viral meme and short-form video templates from one photo or selfie. `Freemium` `Web`
 
 ## Listening and monitoring
 
