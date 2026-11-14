@@ -49,6 +49,7 @@ The queue everything else eventually feeds into.
 
 - **[Buffer](https://buffer.com/)** — The simplest of these to hand to somebody who has never scheduled a post. `Freemium` `Web` `iOS` `Android`
 - **[Hootsuite](https://www.hootsuite.com/)** — Built for approval chains, which is why regulated industries end up on it. `Paid` `Web` `iOS` `Android`
+- **[JuzPost](https://www.juzpost.com/)** — Schedules posts to many networks from its calendar, or from a chat in ChatGPT or Claude through its plugin. `Freemium` `Web`
 - **[Later](https://later.com/)** — Plans the grid as a picture, so a feed is designed rather than accumulated. `Freemium` `Web` `iOS` `Android`
 - **[Loomly](https://www.loomly.com/)** — Prompts the calendar with occasions and trends before the week is empty. `Paid` `Web` `iOS` `Android`
 - **[Metricool](https://metricool.com/)** — Reports on competitors from the same screen that queues your own posts. `Freemium` `Web` `iOS` `Android`
